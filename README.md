@@ -5,4 +5,4 @@ server link : https://github.com/ShazidNawasShovon/SNSTech-using-usereducer-cont
 
 ## Starter pack
 
-starter pack : 
+starter pack : https://snstech-using-usereducer-contextapi.onrender.com/items

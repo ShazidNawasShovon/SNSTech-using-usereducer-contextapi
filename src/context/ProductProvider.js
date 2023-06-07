@@ -20,11 +20,12 @@ const ProductProvider = ({ children }) => {
 
   useEffect(() => {
     dispatch({ type: actionTypes.FETCHING_START });
-    fetch("http://localhost:5000/products")
+    fetch("https://snstech-using-usereducer-contextapi.onrender.com/items")
       .then((res) => res.json())
       .then((data) =>
-        dispatch({ type: actionTypes.FETCHING_SUCCESS, payload: data.data })
-      )
+         dispatch({ type: actionTypes.FETCHING_SUCCESS, payload: data.data })
+      
+        )
       .catch(() => {
         dispatch({ type: actionTypes.FETCHING_ERROR });
       });

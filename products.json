@@ -1,299 +1,1586 @@
 [
   {
-    "model": "AMD Ryzen 5 5600X Gaming PC",
-    "image": "https://live.staticflickr.com/65535/52522584794_4a9898a992_o.jpg",
+    "model": "HP Pavilion 15.6\" Gaming Laptop",
+    "image": "https://www.cnet.com/a/img/resize/81108861d9ebd472d4346222158e9aceac08c491/hub/2019/04/12/fc7ed7ae-87c1-4a41-a470-0b1dff0a68a2/02-hp-pavilion-gaming-laptop-2018.jpg?auto=webp&width=768",
     "status": true,
     "keyFeature": [
-      "Gigabyte B550M DS3H AM4 AMD Micro ATX Motherboard",
-      "PNY GeForce RTX 3070 8GB UPRISING Dual Fan LHR GDDR6 Graphics Card",
-      "AMD RYZEN 5 5600X PROCESSOR",
-      "16GB 3200MHz DDR4 RAM+ 128GB M.2 PCIe SSD"
+      "Intel Core i5-11300H Processor",
+      "NVIDIA GeForce GTX 1650 4GB Graphics",
+      "8GB DDR4 RAM",
+      "256GB PCIe NVMe SSD"
     ],
-    "price": 128200,
-    "rating": 3,
-    "spec": [
-      {
-        "processor": "AMD RYZEN 5 5600X PROCESSOR"
-      },
-      {
-        "motherboard": "Gigabyte B550M DS3H AM4 AMD Micro ATX Motherboard"
-      },
-      {
-        "ram": "Corsair Vengeance LPX 16GB DDR4 DRAM 3200MHz RAM"
-      },
-      {
-        "graphics": "PNY GeForce RTX 3070 8GB UPRISING Dual Fan LHR GDDR6 Graphics Card"
-      },
-      {
-        "storage": "Team MP33 128GB M.2 PCIe SSD Toshiba P300 1TB Desktop PC Internal Hard Drive"
-      },
-      {
-        "casing": "Antec NX420 Mid Tower ARGB Gaming Case"
-      },
-      {
-        "psu": "Antec CUPRUM STRIKE CSK 650W 80 Plus Bronze Power Supply"
-      },
-      {
-        "cooler": "Gamdias Boreas M1-610 ARGB CPU Cooler"
-      }
-    ]
-  },
-  {
-    "model": "Intel 10th Gen Core i3-10100 Gaming PC",
-    "image": "https://live.staticflickr.com/65535/52521844202_dd853335c9_o.jpg",
-    "status": true,
-    "keyFeature": [
-      "MSI H510M-A PRO Intel 10th Gen and 11th Gen Mirco-ATX Motherboard",
-      "Intel i3-10100 10th Gen Processor",
-      "8GB 2666MHz DDR4 RAM +1TB HDD",
-      "GIGABYTE GT 730 2GB DDR3 PCI EXPRESS Graphics Card"
-    ],
-    "price": 41800,
+    "price": 79900,
     "rating": 4,
     "spec": [
       {
-        "processor": "Intel Core i3-10100 10th Gen Processor"
+        "processor": "Intel Core i5-11300H Processor"
       },
       {
-        "motherboard": "MSI H510M-A PRO Intel 10th Gen and 11th Gen Mirco-ATX Motherboard"
+        "graphics": "NVIDIA GeForce GTX 1650 4GB Graphics"
       },
       {
-        "ram": "TEAM ELITE PLUS RED 8GB 2666MHz DDR4 RAM"
+        "ram": "8GB DDR4 RAM"
       },
       {
-        "graphics": "GIGABYTE GeForce GT 730 2GB DDR3 PCI EXPRESS Graphics Card"
+        "storage": "256GB PCIe NVMe SSD"
       },
       {
-        "storage": "Toshiba P300 1TB Desktop PC Internal Hard Drive"
+        "display": "15.6\" Full HD IPS Display"
       },
       {
-        "casing": "Revenger A1 Mid Tower RGB ATX Gaming Case"
+        "battery": "4-Cell Lithium-ion Battery"
       },
       {
-        "psu": "Antec Atom V450 Non-Modular IN SMPS Gaming Power Supply"
+        "weight": "4.37 lbs"
       }
     ]
   },
   {
-    "model": "AMD Ryzen 5 3600 Gaming PC",
-    "image": "https://live.staticflickr.com/65535/52522855818_98bdd4c07a_o.jpg",
+    "model": "Dell XPS 13.3\" Laptop",
+    "image": "https://example.com/images/dell_xps_laptop.jpg",
     "status": true,
     "keyFeature": [
-      "MSI B450 TOMAHAWK MAX AM4 AMD ATX Motherboard (China)",
-      "128GB SSD + 16GB 3200MHz RAM + 1TB HDD",
-      "AMD Ryzen 5 3600 Processor",
-      "ZOTAC GAMING GTX 1660 SUPER 6GB Twin Fan Graphics Card"
+      "Intel Core i7-1165G7 Processor",
+      "Intel Iris Xe Graphics",
+      "16GB LPDDR4x RAM",
+      "512GB PCIe NVMe SSD"
     ],
-    "price": 84400,
+    "price": 129900,
     "rating": 5,
     "spec": [
       {
-        "processor": "AMD Ryzen 5 3600 Processor"
+        "processor": "Intel Core i7-1165G7 Processor"
       },
       {
-        "motherboard": "MSI B450 TOMAHAWK MAX AM4 AMD ATX Motherboard (China)"
+        "graphics": "Intel Iris Xe Graphics"
       },
       {
-        "ram": "Team T-Force VULCAN Z Red 8GB DDR4 3200MHz Desktop Gaming RAM- 2 unit"
+        "ram": "16GB LPDDR4x RAM"
       },
       {
-        "graphics": "ZOTAC GAMING GeForce GTX 1660 SUPER 6GB GDDR6 Twin Fan Graphics Card"
+        "storage": "512GB PCIe NVMe SSD"
       },
       {
-        "storage": "Team MP33 128GB M.2 PCIe SSD Western Digital 1TB Blue Desktop HDD"
+        "display": "13.3\" 4K Ultra HD InfinityEdge Touch Display"
       },
       {
-        "casing": "Xtreme XJOGOS 200-22 RGB Mid Tower Black ATX Gaming Casing"
+        "battery": "4-Cell Lithium-ion Battery"
       },
       {
-        "psu": "Antec CUPRUM STRIKE CSK 650W 80 Plus Bronze Power Supply"
+        "weight": "2.64 lbs"
       }
     ]
   },
   {
-    "model": "Gaming PC 10th Gen Core i5-10400f",
-    "image": "https://live.staticflickr.com/65535/52522584684_9fa14a3332_o.jpg",
+    "model": "Apple MacBook Pro 13.3\" (M1 Chip)",
+    "image": "https://example.com/images/macbook_pro_m1.jpg",
     "status": true,
     "keyFeature": [
-      "MSI B560M-A PRO Intel 11th Gen mATX Motherboard",
-      "Intel 10th Gen i5-10400F Processor",
-      "8GB RAM +1TB HDD + 128GB SSD",
-      "ASUS GeForce GT 1030 2GB GDDR5 Low Profile Graphics Card"
+      "Apple M1 Chip",
+      "8-Core GPU",
+      "8GB Unified Memory",
+      "256GB SSD"
     ],
-    "price": 56700,
-    "rating": 3,
-    "spec": [
-      {
-        "processor": "Intel 10th Gen Core i5-10400F Processor"
-      },
-      {
-        "motherboard": "MSI B560M-A PRO Intel 11th Gen mATX Motherboard"
-      },
-      {
-        "ram": "Team T-Force VULCAN Z Red 8GB DDR4 3200MHz Desktop Gaming RAM"
-      },
-      {
-        "graphics": "ASUS GeForce GT 1030 2GB GDDR5 Low Profile Graphics Card"
-      },
-      {
-        "storage": "Toshiba P300 1TB Desktop PC Internal Hard Drive Team MP33 128GB M.2 PCIe SSD"
-      },
-      {
-        "casing": "Antec NX270 RGB TG Mid Tower Gaming Case"
-      },
-      {
-        "psu": "Antec VP450P PLUS 450W Continuous Power Supply"
-      }
-    ]
-  },
-  {
-    "model": "Intel 10th Gen Core i7-10700 Gaming PC",
-    "image": "https://live.staticflickr.com/65535/52522308736_8453894269_o.jpg",
-    "status": true,
-    "rating": 5,
-    "keyFeature": [
-      "ASRock B560M Steel Legend 10th and 11th Gen Micro ATX Motherboard",
-      "Intel 10th Gen Core i7-10700 Processor",
-      "16GB RAM + 1TB HDD + 256GB SSD",
-      "GeForce GTX 1660 Super NB 6GB-V2 Graphics Card"
-    ],
-    "price": 102200,
-    "spec": [
-      {
-        "processor": "Intel 10th Gen Core i7-10700 Processor"
-      },
-      {
-        "motherboard": "ASRock B560M Steel Legend 10th and 11th Gen Micro ATX Motherboard"
-      },
-      {
-        "ram": "TEAM T-Force DELTA TUF Gaming RGB 16GB 3200MHz DDR4 CL16 RAM"
-      },
-      {
-        "graphics": "Colorful GeForce GTX 1660 Super NB 6GB-V2 Graphics Card"
-      },
-      {
-        "storage": "Seagate Internal 1TB SATA Barracuda HDD Team MP33 256GB M.2 PCIe SSD"
-      },
-      {
-        "casing": "Corsair CARBIDE SPEC-DELTA RGB ATX Gaming Case"
-      },
-      {
-        "psu": "Antec CUPRUM STRIKE CSK 550W 80 Plus Bronze Power Supply"
-      }
-    ]
-  },
-  {
-    "model": "Intel Core i5-11400 11th Gen Gaming PC",
-    "image": "https://live.staticflickr.com/65535/52522308721_4f2de69503_o.jpg",
-    "status": true,
-    "keyFeature": [
-      "Intel 11th Gen Core i5-11400 Rocket Lake Processor",
-      "MSI B560M-A PRO Intel 11th Gen mATX Motherboard",
-      "16GB RAM + 1TB HDD + 256GB M.2 PCIe SSD",
-      "ZOTAC GAMING GTX 1660 SUPER 6GB Graphics Card"
-    ],
-    "price": 86200,
-    "rating": 2,
-    "spec": [
-      {
-        "processor": "Intel 11th Gen Core i5-11400 Rocket Lake Processor"
-      },
-      {
-        "motherboard": "TEAM T-Force DELTA TUF Gaming RGB 16GB 3200MHz DDR4 CL16 RAM"
-      },
-      {
-        "ram": "Team T-Force VULCAN Z Red 8GB DDR4 3200MHz Desktop Gaming RAM- 2 unit"
-      },
-      {
-        "graphics": "ZOTAC GAMING GeForce GTX 1660 SUPER 6GB GDDR6 Twin Fan Graphics Card"
-      },
-      {
-        "storage": "Toshiba P300 1TB Desktop PC Internal Hard Drive Team MP33 256GB M.2 PCIe SSD"
-      },
-      {
-        "casing": "Montech X2 MESH Black Mid-Tower ATX Gaming Case"
-      },
-      {
-        "psu": "DeepCool PK650D 650 Watt 80 PLUS Bronze Power Supply"
-      }
-    ]
-  },
-  {
-    "model": "Intel 11th Gen Core i5-11400f Gaming PC",
-    "image": "https://live.staticflickr.com/65535/52522855818_98bdd4c07a_o.jpg",
-    "status": true,
-    "keyFeature": [
-      "Intel 11th Gen Core i5-11400F Rocket Lake Processor",
-      "ASRock B560M Steel Legend 10th and 11th Gen Micro ATX Motherboard",
-      "Team 16GB DDR4 3200MHz RAM + 128GB M.2 PCIe SSD + Seagate 1TB HDD",
-      "Asus Phoenix GeForce GTX 1050Ti 4GB GDDR5 Graphics Card"
-    ],
-    "price": 84000,
+    "price": 149900,
     "rating": 5,
     "spec": [
       {
-        "processor": "Intel 11th Gen Core i5-11400F Rocket Lake Processor (3 Years Warranty)"
+        "processor": "Apple M1 Chip"
       },
       {
-        "motherboard": "ASRock B560M Steel Legend 10th and 11th Gen Micro ATX Motherboard (3 Years Warranty)"
+        "graphics": "8-Core GPU"
       },
       {
-        "ram": "Team T-Force VULCAN Z Red 16GB DDR4 3200MHz Desktop Gaming RAM (Lifetime Warranty)"
+        "ram": "8GB Unified Memory"
       },
       {
-        "graphics": "Asus Phoenix GeForce GTX 1050Ti 4GB GDDR5 Graphics Card (2 Years Warranty)"
+        "storage": "256GB SSD"
       },
       {
-        "storage": "Team MP33 128GB M.2 PCIe SSD (5 Years Warranty) Seagate Internal 1TB SATA Barracuda HDD (2 Years Warranty)"
+        "display": "13.3\" Retina Display"
       },
       {
-        "casing": "Antec NX410 Mid Tower ARGB Black Gaming Case"
+        "battery": "Up to 17 hours of web browsing"
       },
       {
-        "psu": "Antec CUPRUM STRIKE CSK 550W 80 Plus Bronze Power Supply (3 Years Warranty)"
-      },
-      {
-        "cooler": "Gamdias CHIONE M2-240 Lite RGB CPU Cooler (02-Year Warranty)"
+        "weight": "2.8 lbs"
       }
     ]
   },
   {
-    "model": "AMD Ryzen 7 5800X3D Gaming PC",
-    "image": "https://live.staticflickr.com/65535/52521844332_5f738162d8_o.jpg",
+    "model": "Lenovo ThinkPad X1 Carbon Gen 9",
+    "image": "https://example.com/images/thinkpad_x1_carbon.jpg",
     "status": true,
     "keyFeature": [
-      "AMD Ryzen 7 5800X3D Processor",
-      "ASROCK B550 STEEL LEGEND AMD B550 Chipset Motherboard",
-      "32GB DDR4 RAM + 500GB PCIe 3.0 NVMe SSD",
-      "Colorful GeForce RTX 4090 NB EX-V 24GB GDDR6X Graphics Card"
+      "Intel Core i7-1165G7 Processor",
+      "Intel Iris Xe Graphics",
+      "16GB LPDDR4x RAM",
+      "1TB PCIe NVMe SSD"
     ],
-    "price": 399999,
-    "rating": 3,
+    "price": 179900,
+    "rating": 4,
     "spec": [
       {
-        "processor": "AMD Ryzen 7 5800X3D Processor"
+        "processor": "Intel Core i7-1165G7 Processor"
       },
       {
-        "motherboard": "ASRock B550 Steel Legend DDR4 AMD AM4 ATX Motherboard"
+        "graphics": "Intel Iris Xe Graphics"
       },
       {
-        "ram": "Team T-Force Night Hawk RGB 8GB (KIT) 3200MHz DDR4 RAM (4 UNIT)"
+        "ram": "16GB LPDDR4x RAM"
       },
       {
-        "graphics": "Colorful GeForce RTX 4090 NB EX-V 24GB GDDR6X Graphics Card"
+        "storage": "1TB PCIe NVMe SSD"
       },
       {
-        "storage": "Samsung 980 Pro 500GB PCIe 4.0 M.2 NVMe SSD"
+        "display": "14.0\" WQHD IPS Display"
       },
       {
-        "casing": "Antec TORQUE Black + Red Aluminum ATX Mid Tower Gaming Casing"
+        "battery": "4-Cell Lithium-ion Battery"
       },
       {
-        "psu": "Antec HCG-750 Gold Series 750W Full Modular Power Supply"
-      },
-      {
-        "cooler": "Antec Prizm X 120 ARGB 3+C Cooling Fan"
+        "weight": "2.49 lbs"
       }
     ]
-  }
+  },
+  {
+    "model": "ASUS ROG Strix G15 Gaming Laptop",
+    "image": "https://example.com/images/asus_rog_strix_g15.jpg",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 9 5900HX Processor",
+      "NVIDIA GeForce RTX 3080 8GB Graphics",
+      "16GB DDR4 RAM",
+      "1TB PCIe NVMe SSD"
+    ],
+    "price": 179999,
+    "rating": 5,
+    "spec": [
+      {
+        "processor": "AMD Ryzen 9 5900HX Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce RTX 3080 8GB Graphics"
+      },
+      {
+        "ram": "16GB DDR4 RAM"
+      },
+      {
+        "storage": "1TB PCIe NVMe SSD"
+      },
+      {
+        "display": "15.6\" Full HD 300Hz IPS Display"
+      },
+      {
+        "battery": "4-Cell Lithium-ion Battery"
+      },
+      {
+        "weight": "5.07 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Acer Predator Helios 300 Gaming Laptop",
+    "image": "https://example.com/images/acer_predator_helios_300.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i7-10750H Processor",
+      "NVIDIA GeForce RTX 3060 6GB Graphics",
+      "16GB DDR4 RAM",
+      "512GB NVMe SSD"
+    ],
+    "price": 139999,
+    "rating": 4.5,
+    "spec": [
+      {
+        "processor": "Intel Core i7-10750H Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce RTX 3060 6GB Graphics"
+      },
+      {
+        "ram": "16GB DDR4 RAM"
+      },
+      {
+        "storage": "512GB NVMe SSD"
+      },
+      {
+        "display": "15.6\" Full HD 144Hz IPS Display"
+      },
+      {
+        "battery": "4-Cell Lithium-ion Battery"
+      },
+      {
+        "weight": "5.07 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Microsoft Surface Laptop 4",
+    "image": "https://example.com/images/microsoft_surface_laptop_4.jpg",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 7 4980U Processor",
+      "AMD Radeon Graphics",
+      "16GB LPDDR4x RAM",
+      "512GB SSD"
+    ],
+    "price": 139999,
+    "rating": 4.2,
+    "spec": [
+      {
+        "processor": "AMD Ryzen 7 4980U Processor"
+      },
+      {
+        "graphics": "AMD Radeon Graphics"
+      },
+      {
+        "ram": "16GB LPDDR4x RAM"
+      },
+      {
+        "storage": "512GB SSD"
+      },
+      {
+        "display": "15\" PixelSense Touchscreen Display"
+      },
+      {
+        "battery": "Up to 19 hours of battery life"
+      },
+      {
+        "weight": "2.79 lbs"
+      }
+    ]
+  },
+  {
+    "model": "ASUS ZenBook 14",
+    "image": "https://example.com/images/asus_zenbook_14.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i7-1165G7 Processor",
+      "Intel Iris Xe Graphics",
+      "16GB LPDDR4x RAM",
+      "1TB PCIe NVMe SSD"
+    ],
+    "price": 109999,
+    "rating": 4.7,
+    "spec": [
+      {
+        "processor": "Intel Core i7-1165G7 Processor"
+      },
+      {
+        "graphics": "Intel Iris Xe Graphics"
+      },
+      {
+        "ram": "16GB LPDDR4x RAM"
+      },
+      {
+        "storage": "1TB PCIe NVMe SSD"
+      },
+      {
+        "display": "14\" Full HD NanoEdge Display"
+      },
+      {
+        "battery": "3-Cell Lithium-Polymer Battery"
+      },
+      {
+        "weight": "2.62 lbs"
+      }
+    ]
+  },
+  {
+    "model": "HP Envy x360 13.3\" 2-in-1 Laptop",
+    "image": "https://example.com/images/hp_envy_x360.jpg",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 7 5700U Processor",
+      "AMD Radeon Graphics",
+      "16GB DDR4 RAM",
+      "512GB PCIe NVMe SSD"
+    ],
+    "price": 99999,
+    "rating": 4.3,
+    "spec": [
+      {
+        "processor": "AMD Ryzen 7 5700U Processor"
+      },
+      {
+        "graphics": "AMD Radeon Graphics"
+      },
+      {
+        "ram": "16GB DDR4 RAM"
+      },
+      {
+        "storage": "512GB PCIe NVMe SSD"
+      },
+      {
+        "display": "13.3\" Full HD Touchscreen IPS Display"
+      },
+      {
+        "battery": "3-Cell Lithium-ion Polymer Battery"
+      },
+      {
+        "weight": "2.87 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Dell XPS 13 Laptop",
+    "image": "https://example.com/images/dell_xps_13.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i7-1185G7 Processor",
+      "Intel Iris Xe Graphics",
+      "16GB LPDDR4x RAM",
+      "512GB PCIe NVMe SSD"
+    ],
+    "price": 159999,
+    "rating": 4.8,
+    "spec": [
+      {
+        "processor": "Intel Core i7-1185G7 Processor"
+      },
+      {
+        "graphics": "Intel Iris Xe Graphics"
+      },
+      {
+        "ram": "16GB LPDDR4x RAM"
+      },
+      {
+        "storage": "512GB PCIe NVMe SSD"
+      },
+      {
+        "display": "13.4\" Full HD+ InfinityEdge Display"
+      },
+      {
+        "battery": "4-Cell Lithium-ion Battery"
+      },
+      {
+        "weight": "2.64 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Lenovo ThinkPad X1 Carbon",
+    "image": "https://example.com/images/lenovo_thinkpad_x1_carbon.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i7-1165G7 Processor",
+      "Intel Iris Xe Graphics",
+      "16GB LPDDR4x RAM",
+      "1TB PCIe NVMe SSD"
+    ],
+    "price": 139999,
+    "rating": 4.6,
+    "spec": [
+      {
+        "processor": "Intel Core i7-1165G7 Processor"
+      },
+      {
+        "graphics": "Intel Iris Xe Graphics"
+      },
+      {
+        "ram": "16GB LPDDR4x RAM"
+      },
+      {
+        "storage": "1TB PCIe NVMe SSD"
+      },
+      {
+        "display": "14\" Full HD IPS Display"
+      },
+      {
+        "battery": "4-Cell Lithium-ion Battery"
+      },
+      {
+        "weight": "2.49 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Apple MacBook Pro 13",
+    "image": "https://example.com/images/apple_macbook_pro_13.jpg",
+    "status": true,
+    "keyFeature": [
+      "Apple M1 Chip",
+      "8-core GPU",
+      "8GB Unified RAM",
+      "256GB SSD"
+    ],
+    "price": 129999,
+    "rating": 4.7,
+    "spec": [
+      {
+        "processor": "Apple M1 Chip"
+      },
+      {
+        "graphics": "8-core GPU"
+      },
+      {
+        "ram": "8GB Unified RAM"
+      },
+      {
+        "storage": "256GB SSD"
+      },
+      {
+        "display": "13.3\" Retina Display with True Tone"
+      },
+      {
+        "battery": "Up to 20 hours of battery life"
+      },
+      {
+        "weight": "2.8 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Razer Blade 15 Gaming Laptop",
+    "image": "https://example.com/images/razer_blade_15.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i7-10875H Processor",
+      "NVIDIA GeForce RTX 3080 8GB Graphics",
+      "32GB DDR4 RAM",
+      "1TB SSD"
+    ],
+    "price": 249999,
+    "rating": 4.8,
+    "spec": [
+      {
+        "processor": "Intel Core i7-10875H Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce RTX 3080 8GB Graphics"
+      },
+      {
+        "ram": "32GB DDR4 RAM"
+      },
+      {
+        "storage": "1TB SSD"
+      },
+      {
+        "display": "15.6\" 4K OLED Touchscreen Display"
+      },
+      {
+        "battery": "Up to 6 hours of battery life"
+      },
+      {
+        "weight": "4.73 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Alienware M15 R4 Gaming Laptop",
+    "image": "https://example.com/images/alienware_m15_r4.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i9-10980HK Processor",
+      "NVIDIA GeForce RTX 3080 16GB Graphics",
+      "32GB DDR4 RAM",
+      "1TB PCIe NVMe SSD"
+    ],
+    "price": 329999,
+    "rating": 4.9,
+    "spec": [
+      {
+        "processor": "Intel Core i9-10980HK Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce RTX 3080 16GB Graphics"
+      },
+      {
+        "ram": "32GB DDR4 RAM"
+      },
+      {
+        "storage": "1TB PCIe NVMe SSD"
+      },
+      {
+        "display": "15.6\" Full HD 300Hz Display"
+      },
+      {
+        "battery": "6-Cell 86Whr Integrated Battery"
+      },
+      {
+        "weight": "4.65 lbs"
+      }
+    ]
+  },
+  {
+    "model": "HP Envy x360 Convertible Laptop",
+    "image": "https://example.com/images/hp_envy_x360.jpg",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 7 5800H Processor",
+      "NVIDIA GeForce GTX 1650 4GB Graphics",
+      "16GB DDR4 RAM",
+      "512GB PCIe NVMe SSD"
+    ],
+    "price": 119999,
+    "rating": 4.5,
+    "spec": [
+      {
+        "processor": "AMD Ryzen 7 5800H Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce GTX 1650 4GB Graphics"
+      },
+      {
+        "ram": "16GB DDR4 RAM"
+      },
+      {
+        "storage": "512GB PCIe NVMe SSD"
+      },
+      {
+        "display": "15.6\" Full HD Touchscreen IPS Display"
+      },
+      {
+        "battery": "4-Cell 55.67Whr Battery"
+      },
+      {
+        "weight": "4.37 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Dell XPS 13",
+    "image": "https://example.com/images/dell_xps_13.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i5-1135G7 Processor",
+      "Intel Iris Xe Graphics",
+      "8GB LPDDR4x RAM",
+      "256GB PCIe NVMe SSD"
+    ],
+    "price": 109999,
+    "rating": 4.4,
+    "spec": [
+      {
+        "processor": "Intel Core i5-1135G7 Processor"
+      },
+      {
+        "graphics": "Intel Iris Xe Graphics"
+      },
+      {
+        "ram": "8GB LPDDR4x RAM"
+      },
+      {
+        "storage": "256GB PCIe NVMe SSD"
+      },
+      {
+        "display": "13.4\" 4K Ultra HD+ Touchscreen"
+      },
+      {
+        "battery": "4-Cell 52Whr Battery"
+      },
+      {
+        "weight": "2.64 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Asus ROG Zephyrus G14",
+    "image": "https://example.com/images/asus_rog_zephyrus_g14.jpg",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 9 5900HS Processor",
+      "NVIDIA GeForce RTX 3060 6GB Graphics",
+      "16GB DDR4 RAM",
+      "1TB PCIe NVMe SSD"
+    ],
+    "price": 169999,
+    "rating": 4.7,
+    "spec": [
+      {
+        "processor": "AMD Ryzen 9 5900HS Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce RTX 3060 6GB Graphics"
+      },
+      {
+        "ram": "16GB DDR4 RAM"
+      },
+      {
+        "storage": "1TB PCIe NVMe SSD"
+      },
+      {
+        "display": "14\" WQHD IPS-level Display"
+      },
+      {
+        "battery": "4-Cell 76Whr Battery"
+      },
+      {
+        "weight": "3.64 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Acer Predator Helios 300",
+    "image": "https://example.com/images/acer_predator_helios_300.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i7-10750H Processor",
+      "NVIDIA GeForce RTX 3070 8GB Graphics",
+      "16GB DDR4 RAM",
+      "1TB NVMe SSD"
+    ],
+    "price": 144999,
+    "rating": 4.8,
+    "spec": [
+      {
+        "processor": "Intel Core i7-10750H Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce RTX 3070 8GB Graphics"
+      },
+      {
+        "ram": "16GB DDR4 RAM"
+      },
+      {
+        "storage": "1TB NVMe SSD"
+      },
+      {
+        "display": "15.6\" Full HD 144Hz IPS Display"
+      },
+      {
+        "battery": "4-Cell Li-ion Battery"
+      },
+      {
+        "weight": "5.07 lbs"
+      }
+    ]
+  },
+  {
+    "model": "HP Spectre x360",
+    "image": "https://example.com/images/hp_spectre_x360.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i7-1165G7 Processor",
+      "Intel Iris Xe Graphics",
+      "16GB DDR4 RAM",
+      "1TB PCIe NVMe SSD"
+    ],
+    "price": 129999,
+    "rating": 4.6,
+    "spec": [
+      {
+        "processor": "Intel Core i7-1165G7 Processor"
+      },
+      {
+        "graphics": "Intel Iris Xe Graphics"
+      },
+      {
+        "ram": "16GB DDR4 RAM"
+      },
+      {
+        "storage": "1TB PCIe NVMe SSD"
+      },
+      {
+        "display": "13.3\" 4K UHD Touchscreen"
+      },
+      {
+        "battery": "4-Cell 67Whr Battery"
+      },
+      {
+        "weight": "2.87 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Apple MacBook Pro",
+    "image": "https://example.com/images/apple_macbook_pro.jpg",
+    "status": true,
+    "keyFeature": [
+      "Apple M1 Chip",
+      "8-Core GPU",
+      "16GB Unified Memory",
+      "512GB SSD"
+    ],
+    "price": 199999,
+    "rating": 4.9,
+    "spec": [
+      {
+        "processor": "Apple M1 Chip"
+      },
+      {
+        "graphics": "8-Core GPU"
+      },
+      {
+        "ram": "16GB Unified Memory"
+      },
+      {
+        "storage": "512GB SSD"
+      },
+      {
+        "display": "13.3\" Retina Display"
+      },
+      {
+        "battery": "Up to 20 hours of battery life"
+      },
+      {
+        "weight": "2.8 lbs"
+      }
+    ]
+  },
+  {
+    "model": "MSI GS66 Stealth",
+    "image": "https://example.com/images/msi_gs66_stealth.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i9-10980HK Processor",
+      "NVIDIA GeForce RTX 3080 16GB Graphics",
+      "32GB DDR4 RAM",
+      "1TB NVMe SSD"
+    ],
+    "price": 234999,
+    "rating": 4.7,
+    "spec": [
+      {
+        "processor": "Intel Core i9-10980HK Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce RTX 3080 16GB Graphics"
+      },
+      {
+        "ram": "32GB DDR4 RAM"
+      },
+      {
+        "storage": "1TB NVMe SSD"
+      },
+      {
+        "display": "15.6\" Full HD 300Hz IPS Display"
+      },
+      {
+        "battery": "4-Cell 99.9Whr Battery"
+      },
+      {
+        "weight": "4.63 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Razer Blade 15",
+    "image": "https://example.com/images/razer_blade_15.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i7-11800H Processor",
+      "NVIDIA GeForce RTX 3070 8GB Graphics",
+      "16GB DDR4 RAM",
+      "512GB PCIe NVMe SSD"
+    ],
+    "price": 189999,
+    "rating": 4.8,
+    "spec": [
+      {
+        "processor": "Intel Core i7-11800H Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce RTX 3070 8GB Graphics"
+      },
+      {
+        "ram": "16GB DDR4 RAM"
+      },
+      {
+        "storage": "512GB PCIe NVMe SSD"
+      },
+      {
+        "display": "15.6\" Full HD 144Hz IPS Display"
+      },
+      {
+        "battery": "4-Cell 65Whr Battery"
+      },
+      {
+        "weight": "4.40 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Acer Aspire 5",
+    "image": "https://example.com/images/acer_aspire_5.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i5-1135G7 Processor",
+      "Intel Iris Xe Graphics",
+      "8GB DDR4 RAM",
+      "256GB NVMe SSD"
+    ],
+    "price": 64999,
+    "rating": 4.3,
+    "spec": [
+      {
+        "processor": "Intel Core i5-1135G7 Processor"
+      },
+      {
+        "graphics": "Intel Iris Xe Graphics"
+      },
+      {
+        "ram": "8GB DDR4 RAM"
+      },
+      {
+        "storage": "256GB NVMe SSD"
+      },
+      {
+        "display": "15.6\" Full HD IPS Display"
+      },
+      {
+        "battery": "3-Cell 48Whr Battery"
+      },
+      {
+        "weight": "3.64 lbs"
+      }
+    ]
+  },
+  {
+    "model": "ASUS VivoBook 15",
+    "image": "https://example.com/images/asus_vivobook_15.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i3-1115G4 Processor",
+      "Intel UHD Graphics",
+      "8GB DDR4 RAM",
+      "256GB PCIe NVMe SSD"
+    ],
+    "price": 49999,
+    "rating": 4.2,
+    "spec": [
+      {
+        "processor": "Intel Core i3-1115G4 Processor"
+      },
+      {
+        "graphics": "Intel UHD Graphics"
+      },
+      {
+        "ram": "8GB DDR4 RAM"
+      },
+      {
+        "storage": "256GB PCIe NVMe SSD"
+      },
+      {
+        "display": "15.6\" Full HD Display"
+      },
+      {
+        "battery": "3-Cell 42Whr Battery"
+      },
+      {
+        "weight": "3.75 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Lenovo Yoga 9i",
+    "image": "https://example.com/images/lenovo_yoga_9i.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i7-1185G7 Processor",
+      "Intel Iris Xe Graphics",
+      "16GB LPDDR4x RAM",
+      "1TB PCIe NVMe SSD"
+    ],
+    "price": 179999,
+    "rating": 4.7,
+    "spec": [
+      {
+        "processor": "Intel Core i7-1185G7 Processor"
+      },
+      {
+        "graphics": "Intel Iris Xe Graphics"
+      },
+      {
+        "ram": "16GB LPDDR4x RAM"
+      },
+      {
+        "storage": "1TB PCIe NVMe SSD"
+      },
+      {
+        "display": "14\" 4K IPS Touch Display"
+      },
+      {
+        "battery": "4-Cell 60Whr Battery"
+      },
+      {
+        "weight": "3.04 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Dell G5 15",
+    "image": "https://example.com/images/dell_g5_15.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i5-11400H Processor",
+      "NVIDIA GeForce GTX 1660 Ti",
+      "8GB DDR4 RAM",
+      "256GB PCIe NVMe SSD"
+    ],
+    "price": 109999,
+    "rating": 4.5,
+    "spec": [
+      {
+        "processor": "Intel Core i5-11400H Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce GTX 1660 Ti"
+      },
+      {
+        "ram": "8GB DDR4 RAM"
+      },
+      {
+        "storage": "256GB PCIe NVMe SSD"
+      },
+      {
+        "display": "15.6\" Full HD 120Hz Display"
+      },
+      {
+        "battery": "4-Cell 68Whr Battery"
+      },
+      {
+        "weight": "5.18 lbs"
+      }
+    ]
+  },
+  {
+    "model": "MSI Modern 14",
+    "image": "https://example.com/images/msi_modern_14.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i5-1135G7 Processor",
+      "Intel Iris Xe Graphics",
+      "16GB DDR4 RAM",
+      "512GB PCIe NVMe SSD"
+    ],
+    "price": 84999,
+    "rating": 4.4,
+    "spec": [
+      {
+        "processor": "Intel Core i5-1135G7 Processor"
+      },
+      {
+        "graphics": "Intel Iris Xe Graphics"
+      },
+      {
+        "ram": "16GB DDR4 RAM"
+      },
+      {
+        "storage": "512GB PCIe NVMe SSD"
+      },
+      {
+        "display": "14\" Full HD IPS Display"
+      },
+      {
+        "battery": "3-Cell 52Whr Battery"
+      },
+      {
+        "weight": "2.62 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Dell XPS 15",
+    "image": "https://example.com/images/dell_xps_15.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i9-11900H Processor",
+      "NVIDIA GeForce RTX 3070",
+      "32GB DDR4 RAM",
+      "1TB PCIe NVMe SSD"
+    ],
+    "price": 249999,
+    "rating": 4.9,
+    "spec": [
+      {
+        "processor": "Intel Core i9-11900H Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce RTX 3070"
+      },
+      {
+        "ram": "32GB DDR4 RAM"
+      },
+      {
+        "storage": "1TB PCIe NVMe SSD"
+      },
+      {
+        "display": "15.6\" 4K OLED Touch Display"
+      },
+      {
+        "battery": "6-Cell 97Whr Battery"
+      },
+      {
+        "weight": "4.5 lbs"
+      }
+    ]
+  },
+  {
+    "model": "HP Pavilion 15",
+    "image": "https://example.com/images/hp_pavilion_15.jpg",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 7 5800H Processor",
+      "NVIDIA GeForce RTX 3060",
+      "16GB DDR4 RAM",
+      "512GB PCIe NVMe SSD"
+    ],
+    "price": 129999,
+    "rating": 4.7,
+    "spec": [
+      {
+        "processor": "AMD Ryzen 7 5800H Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce RTX 3060"
+      },
+      {
+        "ram": "16GB DDR4 RAM"
+      },
+      {
+        "storage": "512GB PCIe NVMe SSD"
+      },
+      {
+        "display": "15.6\" Full HD IPS Display"
+      },
+      {
+        "battery": "3-Cell 52.5Whr Battery"
+      },
+      {
+        "weight": "4.37 lbs"
+      }
+    ]
+  },
+  {
+    "model": "MSI GP66 Leopard",
+    "image": "https://example.com/images/msi_gp66_leopard.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i7-11800H Processor",
+      "NVIDIA GeForce RTX 3070",
+      "16GB DDR4 RAM",
+      "512GB PCIe NVMe SSD"
+    ],
+    "price": 189999,
+    "rating": 4.5,
+    "spec": [
+      {
+        "processor": "Intel Core i7-11800H Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce RTX 3070"
+      },
+      {
+        "ram": "16GB DDR4 RAM"
+      },
+      {
+        "storage": "512GB PCIe NVMe SSD"
+      },
+      {
+        "display": "15.6\" Full HD 240Hz IPS Display"
+      },
+      {
+        "battery": "4-Cell 65Whr Battery"
+      },
+      {
+        "weight": "5.25 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Apple MacBook Air",
+    "image": "https://example.com/images/apple_macbook_air.jpg",
+    "status": true,
+    "keyFeature": [
+      "Apple M1 Chip",
+      "Apple 8-Core GPU",
+      "16GB Unified Memory",
+      "512GB SSD"
+    ],
+    "price": 129999,
+    "rating": 4.8,
+    "spec": [
+      {
+        "processor": "Apple M1 Chip"
+      },
+      {
+        "graphics": "Apple 8-Core GPU"
+      },
+      {
+        "ram": "16GB Unified Memory"
+      },
+      {
+        "storage": "512GB SSD"
+      },
+      {
+        "display": "13.3\" Retina Display"
+      },
+      {
+        "battery": "Up to 15 Hours"
+      },
+      {
+        "weight": "2.8 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Lenovo Legion 5",
+    "image": "https://example.com/images/lenovo_legion_5.jpg",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 7 5800H Processor",
+      "NVIDIA GeForce RTX 3070",
+      "16GB DDR4 RAM",
+      "512GB PCIe NVMe SSD"
+    ],
+    "price": 144999,
+    "rating": 4.7,
+    "spec": [
+      {
+        "processor": "AMD Ryzen 7 5800H Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce RTX 3070"
+      },
+      {
+        "ram": "16GB DDR4 RAM"
+      },
+      {
+        "storage": "512GB PCIe NVMe SSD"
+      },
+      {
+        "display": "15.6\" Full HD 165Hz IPS Display"
+      },
+      {
+        "battery": "4-Cell 60Whr Battery"
+      },
+      {
+        "weight": "5.42 lbs"
+      }
+    ]
+  },
+  {
+    "model": "ASUS VivoBook S14",
+    "image": "https://example.com/images/asus_vivobook_s14.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i7-1165G7 Processor",
+      "Intel Iris Xe Graphics",
+      "16GB DDR4 RAM",
+      "1TB PCIe NVMe SSD"
+    ],
+    "price": 99999,
+    "rating": 4.6,
+    "spec": [
+      {
+        "processor": "Intel Core i7-1165G7 Processor"
+      },
+      {
+        "graphics": "Intel Iris Xe Graphics"
+      },
+      {
+        "ram": "16GB DDR4 RAM"
+      },
+      {
+        "storage": "1TB PCIe NVMe SSD"
+      },
+      {
+        "display": "14\" Full HD IPS Display"
+      },
+      {
+        "battery": "3-Cell 50Whr Battery"
+      },
+      {
+        "weight": "2.87 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Acer Swift 3",
+    "image": "https://example.com/images/acer_swift_3.jpg",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 5 5500U Processor",
+      "AMD Radeon Graphics",
+      "8GB LPDDR4x RAM",
+      "512GB PCIe NVMe SSD"
+    ],
+    "price": 79999,
+    "rating": 4.5,
+    "spec": [
+      {
+        "processor": "AMD Ryzen 5 5500U Processor"
+      },
+      {
+        "graphics": "AMD Radeon Graphics"
+      },
+      {
+        "ram": "8GB LPDDR4x RAM"
+      },
+      {
+        "storage": "512GB PCIe NVMe SSD"
+      },
+      {
+        "display": "14\" Full HD IPS Display"
+      },
+      {
+        "battery": "4-Cell 56Whr Battery"
+      },
+      {
+        "weight": "2.65 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Lenovo Yoga C940",
+    "image": "https://example.com/images/lenovo_yoga_c940.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i7-9750H Processor",
+      "NVIDIA GeForce GTX 1650",
+      "16GB DDR4 RAM",
+      "1TB PCIe NVMe SSD"
+    ],
+    "price": 149999,
+    "rating": 4.7,
+    "spec": [
+      {
+        "processor": "Intel Core i7-9750H Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce GTX 1650"
+      },
+      {
+        "ram": "16GB DDR4 RAM"
+      },
+      {
+        "storage": "1TB PCIe NVMe SSD"
+      },
+      {
+        "display": "15.6\" 4K IPS Touch Display"
+      },
+      {
+        "battery": "4-Cell 69Whr Battery"
+      },
+      {
+        "weight": "4.41 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Dell G5 15 Gaming Laptop",
+    "image": "https://example.com/images/dell_g5_15.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i7-11800H Processor",
+      "NVIDIA GeForce RTX 3060 6GB Graphics",
+      "16GB DDR4 RAM",
+      "512GB PCIe NVMe SSD"
+    ],
+    "price": 149999,
+    "rating": 4.4,
+    "spec": [
+      {
+        "processor": "Intel Core i7-11800H Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce RTX 3060 6GB Graphics"
+      },
+      {
+        "ram": "16GB DDR4 RAM"
+      },
+      {
+        "storage": "512GB PCIe NVMe SSD"
+      },
+      {
+        "display": "15.6\" Full HD 120Hz Display"
+      },
+      {
+        "battery": "4-Cell Lithium-ion Battery"
+      },
+      {
+        "weight": "5.18 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Lenovo Legion 7",
+    "image": "https://example.com/images/lenovo_legion_7.jpg",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 9 5900HX Processor",
+      "NVIDIA GeForce RTX 3080 16GB Graphics",
+      "32GB DDR4 RAM",
+      "1TB PCIe NVMe SSD"
+    ],
+    "price": 259999,
+    "rating": 4.9,
+    "spec": [
+      {
+        "processor": "AMD Ryzen 9 5900HX Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce RTX 3080 16GB Graphics"
+      },
+      {
+        "ram": "32GB DDR4 RAM"
+      },
+      {
+        "storage": "1TB PCIe NVMe SSD"
+      },
+      {
+        "display": "15.6\" 4K IPS Display"
+      },
+      {
+        "battery": "4-Cell Lithium-ion Battery"
+      },
+      {
+        "weight": "5.5 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Asus TUF Gaming A15",
+    "image": "https://example.com/images/asus_tuf_gaming_a15.jpg",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 7 5800H Processor",
+      "NVIDIA GeForce RTX 3070 8GB Graphics",
+      "16GB DDR4 RAM",
+      "1TB PCIe NVMe SSD"
+    ],
+    "price": 134999,
+    "rating": 4.4,
+    "spec": [
+      {
+        "processor": "AMD Ryzen 7 5800H Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce RTX 3070 8GB Graphics"
+      },
+      {
+        "ram": "16GB DDR4 RAM"
+      },
+      {
+        "storage": "1TB PCIe NVMe SSD"
+      },
+      {
+        "display": "15.6\" Full HD 144Hz IPS Display"
+      },
+      {
+        "battery": "4-Cell Lithium-polymer Battery"
+      },
+      {
+        "weight": "5.07 lbs"
+      }
+    ]
+  },
+  {
+    "model": "MSI Prestige 14",
+    "image": "https://example.com/images/msi_prestige_14.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i7-1185G7 Processor",
+      "NVIDIA GeForce GTX 1650 4GB Graphics",
+      "16GB LPDDR4x RAM",
+      "512GB NVMe SSD"
+    ],
+    "price": 129999,
+    "rating": 4.6,
+    "spec": [
+      {
+        "processor": "Intel Core i7-1185G7 Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce GTX 1650 4GB Graphics"
+      },
+      {
+        "ram": "16GB LPDDR4x RAM"
+      },
+      {
+        "storage": "512GB NVMe SSD"
+      },
+      {
+        "display": "14\" Full HD IPS Display"
+      },
+      {
+        "battery": "3-Cell Lithium-polymer Battery"
+      },
+      {
+        "weight": "2.84 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Razer Blade Stealth 13",
+    "image": "https://example.com/images/razer_blade_stealth_13.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i7-1165G7 Processor",
+      "NVIDIA GeForce GTX 1650 Ti 4GB Graphics",
+      "16GB LPDDR4x RAM",
+      "512GB PCIe NVMe SSD"
+    ],
+    "price": 149999,
+    "rating": 4.7,
+    "spec": [
+      {
+        "processor": "Intel Core i7-1165G7 Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce GTX 1650 Ti 4GB Graphics"
+      },
+      {
+        "ram": "16GB LPDDR4x RAM"
+      },
+      {
+        "storage": "512GB PCIe NVMe SSD"
+      },
+      {
+        "display": "13.3\" Full HD 120Hz IPS Display"
+      },
+      {
+        "battery": "4-Cell Lithium-ion Battery"
+      },
+      {
+        "weight": "2.92 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Dell Inspiron 14",
+    "image": "https://example.com/images/dell_inspiron_14.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i5-1135G7 Processor",
+      "Intel Iris Xe Graphics",
+      "8GB DDR4 RAM",
+      "256GB PCIe NVMe SSD"
+    ],
+    "price": 72999,
+    "rating": 4.2,
+    "spec": [
+      {
+        "processor": "Intel Core i5-1135G7 Processor"
+      },
+      {
+        "graphics": "Intel Iris Xe Graphics"
+      },
+      {
+        "ram": "8GB DDR4 RAM"
+      },
+      {
+        "storage": "256GB PCIe NVMe SSD"
+      },
+      {
+        "display": "14\" Full HD LED Backlit Display"
+      },
+      {
+        "battery": "3-Cell Li-ion Battery"
+      },
+      {
+        "weight": "3.4 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Asus VivoBook S15",
+    "image": "https://example.com/images/asus_vivobook_s15.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i5-1135G7 Processor",
+      "NVIDIA GeForce MX350 2GB Graphics",
+      "8GB DDR4 RAM",
+      "512GB PCIe NVMe SSD"
+    ],
+    "price": 79999,
+    "rating": 4.4,
+    "spec": [
+      {
+        "processor": "Intel Core i5-1135G7 Processor"
+      },
+      {
+        "graphics": "NVIDIA GeForce MX350 2GB Graphics"
+      },
+      {
+        "ram": "8GB DDR4 RAM"
+      },
+      {
+        "storage": "512GB PCIe NVMe SSD"
+      },
+      {
+        "display": "15.6\" Full HD NanoEdge Display"
+      },
+      {
+        "battery": "3-Cell Li-ion Battery"
+      },
+      {
+        "weight": "3.97 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Dell Latitude 7410",
+    "image": "https://example.com/images/dell_latitude_7410.jpg",
+    "status": true,
+    "keyFeature": [
+      "Intel Core i7-10610U Processor",
+      "Intel UHD Graphics",
+      "16GB LPDDR4x RAM",
+      "512GB PCIe NVMe SSD"
+    ],
+    "price": 129999,
+    "rating": 4.6,
+    "spec": [
+      {
+        "processor": "Intel Core i7-10610U Processor"
+      },
+      {
+        "graphics": "Intel UHD Graphics"
+      },
+      {
+        "ram": "16GB LPDDR4x RAM"
+      },
+      {
+        "storage": "512GB PCIe NVMe SSD"
+      },
+      {
+        "display": "14\" Full HD IPS Display"
+      },
+      {
+        "battery": "4-Cell Li-ion Battery"
+      },
+      {
+        "weight": "2.99 lbs"
+      }
+    ]
+  },
+  {
+    "model": "Lenovo IdeaPad Flex 5",
+    "image": "https://example.com/images/lenovo_ideapad_flex_5.jpg",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 7 5700U Processor",
+      "AMD Radeon Graphics",
+      "16GB DDR4 RAM",
+      "512GB PCIe NVMe SSD"
+    ],
+    "price": 89999,
+    "rating": 4.5,
+    "spec": [
+      {
+        "processor": "AMD Ryzen 7 5700U Processor"
+      },
+      {
+        "graphics": "AMD Radeon Graphics"
+      },
+      {
+        "ram": "16GB DDR4 RAM"
+      },
+      {
+        "storage": "512GB PCIe NVMe SSD"
+      },
+      {
+        "display": "14\" Full HD IPS Touchscreen Display"
+      },
+      {
+        "battery": "4-Cell Li-ion Battery"
+      },
+      {
+        "weight": "3.64 lbs"
+      }
+    ]
+  } 
 ]
