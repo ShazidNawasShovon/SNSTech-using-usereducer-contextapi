@@ -1,13 +1,19 @@
 import React from 'react';
 import { useProducts } from '../context/ProductProvider';
+import { actionTypes } from '../state/ProductState/actionTypes';
 
 const Form = () => {
-    const { state,dispatch } = useProducts();
-    const submit = (event) => {
-        event.preventDefault();
+    // const { state,dispatch } = useProducts();
+    // const submit = (event) => {
+    //     event.preventDefault();
     
-        console.log(state);
-      };
+    //     console.log(state);
+    //   };
+    const {state,dispatch}=useProducts();
+    const submit=(e)=>{
+      e.preventDefault();
+      console.log(state);
+    }
     return (
         <div className='h-screen w-screen flex justify-center items-center overflow-auto'>
       <form
@@ -22,12 +28,13 @@ const Form = () => {
             type='text'
             name='firstName'
             id='firstName'
-            onBlur={(e) =>
+            
+            onBlur={(e) =>{
               dispatch({
-                type: "INPUT",
-                payload: { name: e.target.name, value: e.target.value },
+                type:actionTypes.INPUT,
+                payload:{name:e.target.name,value:e.target.value}
               })
-            }
+            }}
           />
         </div>
         <div className='flex flex-col w-full max-w-xs'>
@@ -38,12 +45,10 @@ const Form = () => {
             type='text'
             name='lastName'
             id='lastName'
-            onBlur={(e) =>
-              dispatch({
-                type: "INPUT",
-                payload: { name: e.target.name, value: e.target.value },
-              })
-            }
+            
+            onBlur={(e)=>{
+              dispatch({ type:actionTypes.INPUT, payload: { name: e.target.name, value:e.target.value } });
+            }}
           />
         </div>
         <div className='flex flex-col w-full max-w-xs'>
@@ -54,12 +59,10 @@ const Form = () => {
             type='email'
             name='email'
             id='email'
-            onBlur={(e) =>
-              dispatch({
-                type: "INPUT",
-                payload: { name: e.target.name, value: e.target.value },
-              })
-            }
+            
+            onBlur={(e)=>{
+              dispatch({ type:actionTypes.INPUT, payload: { name: e.target.name, value:e.target.value }})
+            }}
           />
         </div>
         <div className='flex flex-col w-full max-w-xs'>
@@ -71,12 +74,10 @@ const Form = () => {
                 id='male'
                 name='gender'
                 value='male'
-                onClick={(e) =>
-                  dispatch({
-                    type: "INPUT",
-                    payload: { name: e.target.name, value: e.target.value },
-                  })
-                }
+                
+                onClick={(e)=>{
+                  dispatch({ type:actionTypes.INPUT, payload: { name: e.target.name, value:e.target.value }})
+                }}
               />
               <label className='ml-2 text-lg' for='male'>
                 Male
@@ -88,12 +89,10 @@ const Form = () => {
                 id='female'
                 name='gender'
                 value='female'
-                onClick={(e) =>
-                  dispatch({
-                    type: "INPUT",
-                    payload: { name: e.target.name, value: e.target.value },
-                  })
-                }
+                
+                onClick={(e)=>{
+                  dispatch({ type:actionTypes.INPUT, payload: { name: e.target.name, value:e.target.value }})
+                }}
               />
               <label className='ml-2 text-lg' for='female'>
                 Female
@@ -105,12 +104,9 @@ const Form = () => {
                 id='other'
                 name='gender'
                 value='other'
-                onClick={(e) =>
-                  dispatch({
-                    type: "INPUT",
-                    payload: { name: e.target.name, value: e.target.value },
-                  })
-                }
+                onClick={(e)=>{
+                  dispatch({ type:actionTypes.INPUT, payload: { name: e.target.name, value:e.target.value }})
+                }}
               />
               <label className='ml-2 text-lg' for='other'>
                 Other
@@ -125,12 +121,15 @@ const Form = () => {
           <select
             name='education'
             id='education'
-            onChange={(e) =>
-              dispatch({
-                type: "INPUT",
-                payload: { name: e.target.name, value: e.target.value },
-              })
-            }
+            // onChange={(e) =>
+            //   dispatch({
+            //     type: "INPUT",
+            //     payload: { name: e.target.name, value: e.target.value },
+            //   })
+            // }
+            onClick={(e)=>{
+              dispatch({ type:actionTypes.INPUT, payload: { name: e.target.name, value:e.target.value }})
+            }}
           >
             <option value='SSC'>SSC</option>
             <option value='HSC'>HSC</option>
@@ -141,13 +140,21 @@ const Form = () => {
         <div className='flex flex-col w-full max-w-xs'>
           <label className='mb-3'>Number of PCs</label>
           <div className='flex justify-between items-center gap-2 '>
-            <button className='bg-indigo-500 text-lg text-white rounded h-10 w-10 '>
+            <button className='bg-indigo-500 text-lg text-white rounded h-10 w-10 '
+            onClick={(e)=>{
+              dispatch({type:actionTypes.QUANTITY_DOWN})
+            }}
+            >
               -
             </button>
             <div className='border flex-1 flex justify-center items-center h-10 rounded-md border-gray-300'>
-              <span className='text-lg'>0</span>
+              <span className='text-lg'>{state.quantity}</span>
             </div>
-            <button className='bg-indigo-500 text-lg text-white rounded h-10 w-10'>
+            <button className='bg-indigo-500 text-lg text-white rounded h-10 w-10'
+            onClick={(e)=>{
+              dispatch({type:actionTypes.QUANTITY_UP})
+            }}
+            >
               +
             </button>
           </div>
@@ -163,7 +170,7 @@ const Form = () => {
             rows='4'
             onBlur={(e) =>
               dispatch({
-                type: "INPUT",
+                type: actionTypes.INPUT,
                 payload: { name: e.target.name, value: e.target.value },
               })
             }
@@ -177,7 +184,7 @@ const Form = () => {
               type='checkbox'
               name='term'
               id='terms'
-              onClick={() => dispatch({ type: "TOGGLE" })}
+              onClick={() => dispatch({ type: actionTypes.TOGGLE })}
             />
             <label for='terms'>I agree to terms and conditions</label>
           </div>

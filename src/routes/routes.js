@@ -5,6 +5,7 @@ import Cart from "../pages/Cart";
 import Home from "../pages/Home";
 import TopRated from "../pages/TopRated";
 import Form from "../pages/Form";
+import WishLish from "../pages/WishLish";
 
 const routes = createBrowserRouter([
   {
@@ -30,6 +31,10 @@ const routes = createBrowserRouter([
       {
         path: "form",
         element: <Form/>,
+      },
+      {
+        path: "wishlist",
+        element: <WishLish/>,
       },
     ],
   },
